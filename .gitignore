@@ -1,2 +1,4 @@
 chapter3/FremontBridge.csv
 chapter3/recipeitems-latest.json
+.venv/
+.ipynb_checkpoints
